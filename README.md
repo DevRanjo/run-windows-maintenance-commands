@@ -1,5 +1,5 @@
 # run-windows-maintenance-commands
-Running the basic maintenance command scripts after one another in a .bat script.
+Running the basic maintenance commands in a .bat script.
 
 What commands the script will run: 	
   - DISM /Online /Cleanup-image /CheckHealth
